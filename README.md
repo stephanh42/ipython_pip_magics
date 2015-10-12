@@ -1,5 +1,5 @@
-ipython_pip: %pip magics for IPython
-====================================
+ipython_pip_magics: %pip magics for IPython
+===========================================
 
 This project provides IPython "magics" for working with pip.
 
